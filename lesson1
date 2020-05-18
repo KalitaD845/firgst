@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>
+    <script  type="text/javascript">
+    let age , term;
+    age = "13";
+    term = "23";
+    if (age > term){
+        console.log(age) 
+    }
+    if (age < term){
+        console.log(term) 
+    }
+    if (age == term){
+        console.log("Значения равны между собой") 
+    }
+    </script>
+    
+</body>
+</html>
